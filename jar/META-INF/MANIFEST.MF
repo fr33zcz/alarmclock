@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: swt.jar jl1.0.jar
+Sealed: true
+Main-Class: alarmclock.AlarmClock
+
